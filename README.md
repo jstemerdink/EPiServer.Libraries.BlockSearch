@@ -36,3 +36,9 @@ The content of the property marked with ```[AdditionalSearchContent]`` is added 
 
 * Compile the project.
 * Drop the dll in the bin.
+
+## NOTE
+
+CI does not play nice with ‘Enable NuGet Package Restore’. I have not included the downloaded packages, only the packages.config. 
+So if you are downoading the project and want to build it locally, you will need to enable ‘Enable NuGet Package Restore’ yourself.
+

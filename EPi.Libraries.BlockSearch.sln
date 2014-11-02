@@ -5,13 +5,6 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPi.Libraries.BlockSearch", "EPi.Libraries.BlockSearch.csproj", "{89ED9EAF-3E0C-4BBD-9F4A-5046EAA633F6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{3BDA5B58-5A2B-4E45-BE4D-43812D4F24C5}"
-	ProjectSection(SolutionItems) = preProject
-		.nuget\NuGet.Config = .nuget\NuGet.Config
-		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
-	EndProjectSection
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{71B355C6-7762-44D4-9214-2C9E248F3BE6}"
 	ProjectSection(SolutionItems) = preProject
 		Solution Files\EPiServer.Libraries.ruleset = Solution Files\EPiServer.Libraries.ruleset
